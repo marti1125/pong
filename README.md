@@ -5,5 +5,11 @@
   + [Download Pygame](http://www.pygame.org/download.shtml)
 
 ![Pong](https://raw.github.com/marti1125/pong/master/pong.png)
- 
 
+
+License
+-------
+
+Copyright 2016 Willy Aguirre
+
+Licensed under the MIT License
